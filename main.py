@@ -29,7 +29,6 @@ from mutagen.mp3 import MP3
 from translate import Translator
 from argostranslate import package, translate
 import argostranslate
-import simpleaudio as sa
 import io
 
 from_code = 'en'
