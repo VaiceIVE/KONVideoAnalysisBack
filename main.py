@@ -134,8 +134,8 @@ app.add_middleware(
     allow_origins=[
         "https://localhost:8000/",
         "https://localhost:8080/",
-        "https://91.185.86.61:3000/",
-        "https://91.185.86.61:3000/"
+        "https://91.185.86.61:8080/",
+        "http://91.185.86.61:8080/"
 
     ],
     allow_credentials=True,
